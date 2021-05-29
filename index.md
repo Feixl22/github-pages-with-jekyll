@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Schalke ist die Macht!"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Ein Leben lang Blau und Weiß ein Leben lang.
